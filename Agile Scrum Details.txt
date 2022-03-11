@@ -1,0 +1,74 @@
+Agile - Scrum
+
+Scrum Roles
+1. Scrum Master: A facilitator or lead support
+2. Product owner: Own product/story backlogs, only PO can prioritized item based on importance. And intermediate between team and stakeholder
+3. Teams (Development/QA/BA): Generally 3-9 including business analyst architect, developers, testers
+
+Scrum Master/Product Owner Business Pillars
+1. Transparency 
+2. Inspection
+3. Adaption
+
+Scrum Metrix/Artifacts:
+1. Burn Down chart
+2. Velocity Chart
+3. Scrum Kanban board
+
+Scrum Principals
+1. Empirical process control:
+	Learning from practice or experience or reality.
+2. Self Organization:
+	Team/organization themself instead manager or lead tell them. Prioritize item or take work based on priority or business need.
+3. Collaboration:
+4. Value base prioritization:
+5. Time Boxing
+6. Iterative development, not sequential.
+
+Scrum Values:
+1. Commitment
+2. Courage: To take decision to achieve goals.
+3. Focus: Focus on delivery
+4. Openness:  Be open on status difficulties what we are facing
+5. Respect: Respect on openness, what we are doing
+
+Scrum Aspects
+1. Organization
+2. Business Justification: why we are doing
+3. Quality: Business acceptance criteria 
+4. Change: Become change and add it.
+5. Risk: Identify small, medium and high risk and try to reduce and eliminate.
+
+Scrum strength
+1. Continuous delivery
+2. Empowerment
+3. Cross functional teams
+4. Self organization
+5. Focus on short term objective, iterative approach.
+
+Quality & Risk in Scrum:
+
+
+Scrum Rituals/ceremonies
+1. Daily Scrum 
+2. Sprint Planning
+3. Sprint review
+4. Retrospective
+5. Backlog refining or grooming
+
+MVP: Minimal viable product
+
+Agile Tools:
+1. Trillo
+2. GITLAB
+3. JIRA & ATLASSIAN
+4. Microsoft Planner
+Components: Nothing but categories
+Epic story: something big & can be break down.
+
+Resources:
+1. Scrum Grid: the Bible
+2. Scrum.org
+3. ScrumAlliance
+
+Arch!n$hree@

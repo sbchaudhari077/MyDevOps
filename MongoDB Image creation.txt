@@ -1,0 +1,17 @@
+// dotnet add package MongoDB.Driver
+// docker run -d --rm --name mongo -p 27017:271017 -v mongodbdata:/data/db mongo
+// run -> Run container
+// -d  -> WE dont keep being attached to the docker process all the time.
+// --rm -> whenever we stop container it will automatically deleted container
+// --name -> Name to docker container
+// -p -> port 
+// 27017:27017 ( From outside we opened kind of window in order to talk to container it will be at 27017 and 
+// then that can be mapped to internal port 27017 where MongoDB server is already listning) 
+
+// First 27017 -> In order to reach to MongoDB container we can use port 27017 its a external port 
+// And Second 27017 -> then in order to get mapped into the internal MongoDB server we have to map it to 27017
+// This is the default port which MongoDB uses internally 
+// You could be using any port in the left side that is first one
+//
+// -v -> Volume /data/db is default location where MondoDB stores the database files
+// mongo -> this is the image Name 

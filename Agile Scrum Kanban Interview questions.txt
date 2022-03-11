@@ -1,0 +1,26 @@
+1. Team is continuously failing to deliver what they assigned story point or task in sprint? Don't say like try to understanding the issue and discuss with team etc
+Ans: If I am new team member as Scrum master then will review all retrospective meeting outcome and work accordingly
+Also need to understand if PO directly assigning work to team members
+
+
+
+2. What if particular story slipped from team member then how you handle situation with stakeholder?
+Ans:
+
+3. What if PO directly communicating to team member and assigning work
+Ans:
+
+4. Conflict of availability especially when work of home? Some time associates may say they have some personal work which will affect on time delivery?
+Ans:
+
+1:19 How do you justify the Scrum Master Job?
+6:56 How do you divide big projects into small projects?
+13:46 How to keep your team cross functional?
+18:26 What to do when your members go on an unplanned leave?
+24:20 How do you handle sprint velocity?
+29:01 How do you maintain the velocity?
+34:47 Do you have strategies to deal with difficult clients?
+41:56 What types of Risk you handled?
+45:23 Why do we need to do a retrospective?
+49:08 Do you have any questions for me?
+53:43 How do you want to set up your future career?
